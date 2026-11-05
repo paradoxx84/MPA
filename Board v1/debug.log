@@ -1,0 +1,8 @@
+[0722/091115.802:WARNING:ui\gl\direct_composition_support.cc:1195] QueryInterface to IDCompositionDevice4 failed: Schnittstelle nicht unterstützt (0x80004002)
+[0722/091116.201:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[0722/091116.300:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[0722/091116.378:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[0722/165037.057:WARNING:ui\gl\direct_composition_support.cc:1195] QueryInterface to IDCompositionDevice4 failed: Schnittstelle nicht unterstützt (0x80004002)
+[0722/165037.545:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[0722/165037.647:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[0722/165037.724:ERROR:mojo\public\cpp\bindings\lib\validation_errors.cc:117] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
